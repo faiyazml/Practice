@@ -26,9 +26,9 @@ Here I:
 
 ```bash
 .
+├── Dictionary_methods-checkpoint.ipynb
 ├── List_methods.ipynb
 ├── NumPy_practice.ipynb
 ├── Python_comprehensions.ipynb
-├── Dictionary_methods-checkpoint.ipynb
 └── README.md
 ```
