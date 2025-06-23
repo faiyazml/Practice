@@ -30,5 +30,7 @@ Here I:
 ├── List_methods.ipynb
 ├── NumPy_practice.ipynb
 ├── Python_comprehensions.ipynb
-└── README.md
+├── README.md
+├── Comprehensions.ipynb
+└── Statistics.ipynb
 ```
