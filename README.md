@@ -31,6 +31,6 @@ Here I:
 ├── NumPy_practice.ipynb
 ├── Python_comprehensions.ipynb
 ├── README.md
-├── Comprehensions.ipynb
+├── Slicing-checkpoint.ipynb
 └── Statistics.ipynb
 ```
