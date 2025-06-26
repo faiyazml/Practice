@@ -26,11 +26,11 @@ Here I:
 
 ```bash
 .
-├── Dictionary_methods-checkpoint.ipynb
-├── List_methods.ipynb
-├── NumPy_practice.ipynb
-├── Python_comprehensions.ipynb
-├── README.md
-├── Slicing-checkpoint.ipynb
-└── Statistics.ipynb
+├── Matplotlib
+├── Numpy
+├── Pandas
+├── Python
+├── Seaborn
+├── Statistics
+└── README.md
 ```
