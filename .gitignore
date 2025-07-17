@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all checkpoint versions of notebooks
+*-checkpoint.ipynb
+
+
+**/.ipynb_checkpoints/
